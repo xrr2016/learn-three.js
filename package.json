@@ -1,0 +1,14 @@
+{
+  "name": "learn-three.js",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:xrr2016/learn-three.js.git",
+  "author": "xrr2016 <xiaoranran1993@163.com>",
+  "license": "MIT",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
